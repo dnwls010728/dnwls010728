@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=dnwls010728)](https://github.com/stats-organization/github-stats-extended)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dnwls010728&langs_count=4)
 
 Contact: dnwls010728@gmail.com
