@@ -1,21 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Woojin Choi</h1>
+<h3 align="center">A Game Developer passionate about building immersive experiences</h3>
 
 <!--
-**dnwls010728/dnwls010728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I'm currently working on ...
+🌱 I'm currently learning ...
+👯 I'm looking to collaborate on ...
+🤔 I'm looking for help with ...
+😄 Pronouns: ...
+⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=dnwls010728)](https://github.com/stats-organization/github-stats-extended)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dnwls010728&langs_count=4)
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-Contact: dnwls010728@gmail.com
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=dnwls010728" alt="Woojin's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dnwls010728&langs_count=4" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Contact
+<p align="center">
+  <a href="mailto:dnwls010728@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
