@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Woojin Choi</h1>
+<h1 align="center">Hi 👋, I'm Sio</h1>
 <h3 align="center">A Game Developer passionate about building immersive experiences</h3>
 
 <!--
