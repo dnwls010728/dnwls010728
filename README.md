@@ -23,7 +23,7 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=dnwls010728" alt="Woojin's GitHub stats" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=dnwls010728" alt="Sio's GitHub stats" /></td>
     <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dnwls010728&langs_count=4" alt="Top Languages" /></td>
   </tr>
 </table>
